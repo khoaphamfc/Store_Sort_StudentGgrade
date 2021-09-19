@@ -1,1 +1,1 @@
-# Store_Sort_StudentGgrade
+This is a simple project, which can add, remove student's information from a list. The information contains name, midterm grade, and final grade. Furthermore, the program can print mean and average for the final exam, and sort based on name, midterm, or final grade.
